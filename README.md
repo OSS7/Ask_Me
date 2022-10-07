@@ -1,16 +1,3 @@
-# ask_me_app
+Ask Me App, it's An application help students to ask them question on thier subject that will be usefull tool to help them a lot, like it help me during my college journey until graduation.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ ![Retro bold checker mobile mockup instagram post  (3)](https://user-images.githubusercontent.com/57839549/194614372-1276f61a-4d0f-413a-bb42-31e6ae9be757.jpg)
